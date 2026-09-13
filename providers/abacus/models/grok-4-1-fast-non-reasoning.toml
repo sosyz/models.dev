@@ -1,5 +1,6 @@
 name = "Grok 4.1 Fast (Non-Reasoning)"
-family = "grok-4.1"
+description = "Fast Grok model for responsive chat, reasoning, and tool-assisted work"
+family = "grok"
 release_date = "2025-11-17"
 last_updated = "2025-11-17"
 attachment = true

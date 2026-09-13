@@ -1,5 +1,6 @@
 name = "Mixtral 8x7B"
-family = "mixtral-8x7b"
+description = "Mistral model for multilingual chat, reasoning, and tool-assisted workflows"
+family = "mixtral"
 release_date = "2023-12-11"
 last_updated = "2023-12-11"
 attachment = false

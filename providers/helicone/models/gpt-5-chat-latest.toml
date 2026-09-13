@@ -1,5 +1,6 @@
 name = "OpenAI GPT-5 Chat Latest"
-family = "gpt-5-chat"
+description = "Chat-tuned GPT model for conversational assistance, writing, and tool workflows"
+family = "gpt-codex"
 release_date = "2024-09-30"
 last_updated = "2024-09-30"
 attachment = false

@@ -1,5 +1,6 @@
 name = "Qwen 3 Embedding 8B"
-family = "qwen3"
+description = "Embedding model for semantic search, retrieval, clustering, and ranking pipelines"
+family = "qwen"
 release_date = "2025-01-01"
 last_updated = "2025-01-01"
 attachment = false

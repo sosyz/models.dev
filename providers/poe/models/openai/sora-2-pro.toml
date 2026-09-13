@@ -1,5 +1,6 @@
 name = "Sora-2-Pro"
-family = "sora-2-pro"
+description = "Video model for prompt-guided generation, editing, and motion workflows"
+family = "sora"
 release_date = "2025-10-06"
 last_updated = "2025-10-06"
 attachment = true

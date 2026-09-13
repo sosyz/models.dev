@@ -1,5 +1,6 @@
 name = "OpenAI GPT-5 Mini"
-family = "gpt-5-mini"
+description = "Compact GPT model for low-latency assistance and high-volume workloads"
+family = "gpt-mini"
 release_date = "2025-01-01"
 last_updated = "2025-01-01"
 attachment = false

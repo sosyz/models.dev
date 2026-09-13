@@ -1,5 +1,6 @@
 name = "OpenAI GPT-4.1 Nano"
-family = "gpt-4.1-nano"
+description = "Compact GPT model for low-latency assistance and high-volume workloads"
+family = "gpt-nano"
 release_date = "2025-04-14"
 last_updated = "2025-04-14"
 attachment = false

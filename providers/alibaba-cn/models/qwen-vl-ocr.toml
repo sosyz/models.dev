@@ -1,5 +1,6 @@
 name = "Qwen-VL OCR"
-family = "qwen-vl"
+description = "OCR model for extracting structured text from documents and screenshots"
+family = "qwen"
 release_date = "2024-10-28"
 last_updated = "2025-04-13"
 attachment = false

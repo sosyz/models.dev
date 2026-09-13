@@ -1,5 +1,6 @@
 name = "OpenAI: GPT-5 Codex"
-family = "gpt-5-codex"
+description = "Coding-optimized GPT model for repository edits, reviews, and agentic software work"
+family = "gpt-codex"
 release_date = "2025-01-01"
 last_updated = "2025-01-01"
 attachment = false

@@ -1,5 +1,6 @@
 name = "Qwen-MT Plus"
-family = "qwen-mt"
+description = "Translation model for multilingual conversion, localization, and cross-language workflows"
+family = "qwen"
 release_date = "2025-01"
 last_updated = "2025-01"
 attachment = false

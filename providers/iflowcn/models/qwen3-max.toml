@@ -1,5 +1,6 @@
 name = "Qwen3-Max"
-family = "qwen3"
+description = "Flagship Qwen model for complex reasoning, coding, and agentic workflows"
+family = "qwen"
 release_date = "2025-01-01"
 last_updated = "2025-01-01"
 attachment = false

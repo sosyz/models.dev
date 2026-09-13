@@ -1,5 +1,6 @@
 name = "Veo-3-Fast"
-family = "veo-3-fast"
+description = "Video model for prompt-guided generation, editing, and motion workflows"
+family = "veo"
 release_date = "2025-10-13"
 last_updated = "2025-10-13"
 attachment = true

@@ -1,5 +1,6 @@
 name = "Nano-Banana-Pro"
-family = "nano-banana-pro"
+description = "Image model for prompt-driven generation, editing, and visual design workflows"
+family = "nano-banana"
 release_date = "2025-11-19"
 last_updated = "2025-11-19"
 attachment = true
@@ -9,10 +10,9 @@ open_weights = false
 tool_call = true
 
 [cost]
-input = 1.7
-output = 10
-cache_read = 0.17
-image = 100
+input = 2
+output = 12
+cache_read = 0.2
 
 [limit]
 context = 65_536

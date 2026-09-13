@@ -1,5 +1,6 @@
 name = "DeepSeek V3.1"
-family = "deepseek-v3"
+description = "DeepSeek chat model for instruction following, coding, and analysis"
+family = "deepseek"
 release_date = "2025-01-01"
 last_updated = "2025-01-01"
 attachment = false

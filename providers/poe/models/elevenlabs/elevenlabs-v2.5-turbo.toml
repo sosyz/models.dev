@@ -1,5 +1,6 @@
 name = "ElevenLabs-v2.5-Turbo"
-family = "elevenlabs-v2.5-turbo"
+description = "Speech generation model for controllable voice, narration, and audio delivery"
+family = "elevenlabs"
 release_date = "2024-10-28"
 last_updated = "2024-10-28"
 attachment = true

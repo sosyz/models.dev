@@ -1,5 +1,6 @@
 name = "Qwen 2.5 VL 32B Instruct"
-family = "qwen2.5-vl"
+description = "Qwen vision-language model for visual reasoning, documents, and agent tasks"
+family = "qwen"
 release_date = "2024-11-01"
 last_updated = "2024-11-01"
 attachment = false

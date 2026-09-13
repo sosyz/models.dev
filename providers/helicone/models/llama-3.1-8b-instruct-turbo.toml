@@ -1,5 +1,6 @@
 name = "Meta Llama 3.1 8B Instruct Turbo"
-family = "llama-3.1"
+description = "Compact Llama instruction model for fast chat and local deployment"
+family = "llama"
 release_date = "2024-07-23"
 last_updated = "2024-07-23"
 attachment = false

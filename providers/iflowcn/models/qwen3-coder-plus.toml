@@ -1,5 +1,6 @@
 name = "Qwen3-Coder-Plus"
-family = "qwen3-coder"
+description = "Qwen coding model for software agents, repository edits, and code reasoning"
+family = "qwen"
 release_date = "2025-07-01"
 last_updated = "2025-07-01"
 attachment = false

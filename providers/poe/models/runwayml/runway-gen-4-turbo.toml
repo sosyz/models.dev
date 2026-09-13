@@ -1,5 +1,6 @@
 name = "Runway-Gen-4-Turbo"
-family = "runway-gen-4-turbo"
+description = "Video model for prompt-guided generation, editing, and motion workflows"
+family = "runway"
 release_date = "2025-05-09"
 last_updated = "2025-05-09"
 attachment = true

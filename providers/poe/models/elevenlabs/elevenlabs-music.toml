@@ -1,5 +1,6 @@
 name = "ElevenLabs-Music"
-family = "elevenlabs-music"
+description = "Speech generation model for controllable voice, narration, and audio delivery"
+family = "elevenlabs"
 release_date = "2025-08-29"
 last_updated = "2025-08-29"
 attachment = true

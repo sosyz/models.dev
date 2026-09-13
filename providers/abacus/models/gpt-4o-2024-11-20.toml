@@ -1,5 +1,6 @@
 name = "GPT-4o (2024-11-20)"
-family = "gpt-4o"
+description = "GPT model for general reasoning, writing, coding, and tool-assisted tasks"
+family = "gpt"
 release_date = "2024-11-20"
 last_updated = "2024-11-20"
 attachment = true

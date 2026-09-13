@@ -1,5 +1,6 @@
 name = "Imagen-4-Fast"
-family = "imagen-4-fast"
+description = "Image model for prompt-driven generation, editing, and visual design workflows"
+family = "imagen"
 release_date = "2025-06-25"
 last_updated = "2025-06-25"
 attachment = true

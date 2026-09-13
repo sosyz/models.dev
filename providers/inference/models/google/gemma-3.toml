@@ -1,5 +1,6 @@
 name = "Google Gemma 3"
-family = "gemma-3"
+description = "Open Gemma instruction model for efficient chat and self-hosted deployments"
+family = "gemma"
 release_date = "2025-01-01"
 last_updated = "2025-01-01"
 attachment = true

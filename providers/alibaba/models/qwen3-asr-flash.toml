@@ -1,5 +1,6 @@
 name = "Qwen3-ASR Flash"
-family = "qwen3"
+description = "Speech transcription model for accurate audio-to-text and captioning workflows"
+family = "qwen"
 release_date = "2025-09-08"
 last_updated = "2025-09-08"
 attachment = false

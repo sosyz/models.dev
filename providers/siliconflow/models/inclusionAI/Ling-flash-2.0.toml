@@ -1,5 +1,6 @@
 name = "inclusionAI/Ling-flash-2.0"
-family = "inclusionai-ling-flash"
+description = "Efficient model for low-latency assistance, extraction, and routine automation"
+family = "ling"
 release_date = "2025-09-18"
 last_updated = "2025-11-25"
 attachment = false

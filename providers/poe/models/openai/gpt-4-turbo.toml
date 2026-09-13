@@ -1,5 +1,6 @@
 name = "GPT-4-Turbo"
-family = "gpt-4-turbo"
+description = "Compact GPT model for low-latency assistance and high-volume workloads"
+family = "gpt"
 release_date = "2023-09-13"
 last_updated = "2023-09-13"
 attachment = true
@@ -14,7 +15,7 @@ output = 27
 
 [limit]
 context = 128_000
-output = 4096
+output = 4_096
 
 [modalities]
 input = ["text", "image"]

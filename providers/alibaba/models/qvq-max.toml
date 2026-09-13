@@ -1,5 +1,6 @@
 name = "QVQ Max"
-family = "qvq-max"
+description = "Qwen vision-language model for visual reasoning, documents, and agent tasks"
+family = "qvq"
 release_date = "2025-03-25"
 last_updated = "2025-03-25"
 attachment = false
@@ -8,6 +9,7 @@ temperature = true
 knowledge = "2024-04"
 tool_call = true
 open_weights = false
+reasoning_options = []
 
 [cost]
 input = 1.2

@@ -1,5 +1,6 @@
 name = "BGE Multilingual Gemma2"
-family = "gemma-2"
+description = "Open Gemma instruction model for efficient chat and self-hosted deployments"
+family = "gemma"
 release_date = "2024-07-26"
 last_updated = "2025-06-15"
 attachment = false
@@ -9,7 +10,7 @@ tool_call = false
 open_weights = false
 
 [cost]
-input = 0.13
+input = 0.10
 output = 0.00
 
 [limit]

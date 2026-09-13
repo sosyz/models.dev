@@ -1,5 +1,6 @@
 name = "Llama 3.1 8B Instruct"
-family = "llama-3.1"
+description = "Open Llama instruction model for multilingual chat, reasoning, and coding"
+family = "llama"
 release_date = "2025-01-01"
 last_updated = "2025-01-01"
 attachment = false

@@ -1,5 +1,6 @@
 name = "Qwen 3 Next 80B Instruct"
-family = "qwen3"
+description = "Qwen instruction model for multilingual chat, reasoning, and tool use"
+family = "qwen"
 release_date = "2025-01-10"
 last_updated = "2025-01-10"
 attachment = false

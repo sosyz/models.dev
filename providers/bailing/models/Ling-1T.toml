@@ -1,5 +1,6 @@
 name = "Ling-1T"
-family = "ling-1t"
+description = "Open-weight instruction model for adaptable chat and self-hosted production workloads"
+family = "ling"
 release_date = "2025-10"
 last_updated = "2025-10"
 attachment = false

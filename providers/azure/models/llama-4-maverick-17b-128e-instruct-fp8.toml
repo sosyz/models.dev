@@ -1,5 +1,6 @@
 name = "Llama 4 Maverick 17B 128E Instruct FP8"
-family = "llama-4-maverick"
+description = "Open multimodal Llama model for strong reasoning and fast responses"
+family = "llama"
 release_date = "2025-04-05"
 last_updated = "2025-04-05"
 attachment = true
@@ -14,8 +15,8 @@ input = 0.25
 output = 1.00
 
 [limit]
-context = 128_000
-output = 8_192
+context = 1_000_000
+output = 16_384
 
 [modalities]
 input = ["text", "image"]

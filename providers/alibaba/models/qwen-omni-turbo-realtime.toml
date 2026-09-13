@@ -1,5 +1,6 @@
 name = "Qwen-Omni Turbo Realtime"
-family = "qwen-omni"
+description = "Qwen omni model for text, vision, audio, and multimodal agent tasks"
+family = "qwen"
 release_date = "2025-05-08"
 last_updated = "2025-05-08"
 attachment = false
